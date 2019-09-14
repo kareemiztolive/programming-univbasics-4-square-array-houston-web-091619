@@ -4,7 +4,7 @@ def square_array(array)
   new_numbers = []
   
   while counter < array.length do
-new_numbers = array[count]
+new_numbers = array[count]**
  counter += 1
 end
 
